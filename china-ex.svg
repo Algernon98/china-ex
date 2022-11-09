@@ -9,28 +9,4 @@
     <tspan x="14" y="15.95" font-family="思源黑体" font-size="12" fill="#000000" font-style="normal" font-weight="normal">临</tspan>
     <tspan x="26" y="15.95" font-family="思源黑体" font-size="12" fill="#000000" font-style="normal" font-weight="normal">舍</tspan>
   </text>
-</svg></text>
-	<text x="163" y="288">新疆</text>
-	<text x="767" y="880" class="fs24">港</text>
-	<text x="711" y="880" class="fs24">澳</text>
-</g>
-<a href="https://lab.magiconch.com" target="_blank">
-	<text x="37" y="937">神奇海螺试验场</text>
-</a>
-<text id="分数" x="35" y="883">分数</text>
-<g id="等级">
-	<path fill="#FF7E7E" d="M983 450h120v50H983Z"/>
-	<path fill="#FFB57E" d="M983 500h120v50H983Z"/>
-	<path fill="#FFE57E" d="M983 550h120v50H983Z"/>
-	<path fill="#A8FFBE" d="M983 600h120v50H983Z"/>
-	<path fill="#88AEFF" d="M983 650h120v50H983Z"/>
-	<path fill="#FFF" d="M983 700h120v50H983Z"/>
-	<path class="边框" d="M983 448h120v304H983Z"/>
-	<text x="1000" y="484">居住５</text>
-	<text x="1000" y="535">短居４</text>
-	<text x="1000" y="585">游玩３</text>
-	<text x="1000" y="635">出差２</text>
-	<text x="1000" y="685">路过１</text>
-	<text x="998" y="735">没去过</text>
-</g>
 </svg>
